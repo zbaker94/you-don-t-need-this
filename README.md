@@ -4,7 +4,7 @@
 
 
 ###### This package was made with love as a joke mainly to comment on the state of the JavaScript / NPM ecosystem. Remember folks, single functions are not libraries.
-Some of the packages that inspired this nightmare:
+###### Some of the packages that inspired this nightmare:
 - https://www.npmjs.com/package/true
 - https://github.com/juliangruber/isarray
 - https://www.npmjs.com/package/false
