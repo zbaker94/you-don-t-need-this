@@ -1,4 +1,5 @@
 import isString from "../isString";
+import paddingString from "./paddingString";
 
 const rightPad = (string: string, length: number, char: string = " ") : string => {
     if(!isString(string)){

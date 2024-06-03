@@ -4,3 +4,5 @@ const paddingString = (length: number, char: string) : string => {
 
     return Array(length).fill(char).join("")
 }
+
+export default paddingString;
